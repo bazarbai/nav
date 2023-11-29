@@ -1,0 +1,51 @@
+body{
+    /* cursor: pointer; */
+    margin: auto;
+    padding:auto ;
+}
+.header{width: 1400px;
+    position: fixed;
+    border: 2px solid;
+    background-color: forestgreen;
+}
+ul{
+    margin-left: 300px;
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+li{
+    cursor: pointer;
+    color: aqua;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.com-one{
+    height: 400px;
+    background-color: aqua;
+    border-bottom: 2px solid;
+    margin-top: -20px;
+}
+.com-two{
+    height: 400px;
+    background-color: rgb(216, 136, 57);
+    border-bottom: 2px solid;
+    margin-top: -20px;
+}
+.com-three{
+    height: 400px;
+    background-color: rgb(238, 255, 0);
+    border-bottom: 2px solid;
+    margin-top: -20px;
+}
+.com-foure{
+    height: 400px;
+    background-color: rgb(143, 150, 240);
+    border-bottom: 2px solid;
+    margin-top: -20px;
+}
+img{ 
+    width: 400px;
+    height: 250px;
+}
